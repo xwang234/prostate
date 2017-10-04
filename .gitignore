@@ -1,0 +1,6 @@
+*.out
+*.fastq
+*.fq
+*.fa
+*.bam
+*.sam
